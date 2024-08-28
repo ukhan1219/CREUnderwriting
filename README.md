@@ -26,10 +26,10 @@ In the CRE industry, professionals often rely on quick mental calculations or ma
 ## Getting Started
 To use CREUnderwriting, follow these steps:
 
-## Clone this repository.
-Compile the Java project in your preferred IDE.
-Run the application and input the property details as prompted.
-Receive an evaluation of whether the deal is worth pursuing based on the calculated DSCR, NOI, and Expected Value.
+1.    Clone this repository.
+2.    Compile the Java project in your preferred IDE.
+3.    Run the application and input the property details as prompted.
+4.    Receive an evaluation of whether the deal is worth pursuing based on the calculated DSCR, NOI, and Expected Value.
 ## Prerequisites
 -  Java Development Kit (JDK)
 -  A Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans
