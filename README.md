@@ -34,4 +34,4 @@ To use CREUnderwriting, follow these steps:
 -  Java Development Kit (JDK)
 -  A Java IDE such as IntelliJ IDEA, Eclipse, or NetBeans
 ## Contributing
-Contributions to enhance the functionality of CREUnderwriting are welcome. If you have suggestions for improving the evaluation algorithms or expanding the tool's capabilities, feel free to open an issue or submit a pull request.
+Contributions to enhance the functionality of CREUnderwriting are welcome. If you have suggestions for improving the evaluation algorithms or expanding the tool's capabilities, feel free to reach out for improvements and advancements.
